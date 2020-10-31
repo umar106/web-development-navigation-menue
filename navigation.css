@@ -1,0 +1,33 @@
+.navbar{
+background-color:firebrick;
+border-radius: 30px;
+height:40px;
+
+
+}
+.navbar li{
+   
+    list-style: none;
+    display: inline-block;
+     margin:12px 12px;
+   
+}
+.navbar li a{
+    text-decoration: none;
+    color: floralwhite;
+   
+}
+.navbar li a:hover{
+    background-color: rgb(14, 2, 6);
+}
+.search{
+    float:right;
+    padding: 10px 75px;
+  
+    
+}
+.navbar input{
+    border: 2px solid white;
+    border-radius: 12px;
+   
+}
